@@ -19,6 +19,8 @@ deepspeed
 transformers
 peft
 wandb
+rich
+pydantic
 ```
 The minimum dependency is PyTorch, and others are used to reproduce our paper results. 
 
